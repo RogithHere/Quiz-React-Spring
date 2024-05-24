@@ -1,4 +1,4 @@
-package com.rogith.QuizSpring.Controller;
+package com.rogith.QuizSpring.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
